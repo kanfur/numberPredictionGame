@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\CS Tech Savunma\NumberPredictionGame3\NumberPredictionGame3\bin\Debug\NumberPredictionGame3.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\CS Tech Savunma\NumberPredictionGame3\NumberPredictionGame3\bin\Debug\NumberPredictionGame3.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\CS Tech Savunma\NumberPredictionGame3\NumberPredictionGame3\bin\Debug\NumberPredictionGame3.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\CS Tech Savunma\NumberPredictionGame3\NumberPredictionGame3\obj\Debug\NumberPredictionGame3.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\CS Tech Savunma\NumberPredictionGame3\NumberPredictionGame3\obj\Debug\NumberPredictionGame3.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\CS Tech Savunma\NumberPredictionGame3\NumberPredictionGame3\obj\Debug\NumberPredictionGame3.Form2.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\CS Tech Savunma\NumberPredictionGame3\NumberPredictionGame3\obj\Debug\NumberPredictionGame3.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\CS Tech Savunma\NumberPredictionGame3\NumberPredictionGame3\obj\Debug\NumberPredictionGame3.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\CS Tech Savunma\NumberPredictionGame3\NumberPredictionGame3\obj\Debug\NumberPredictionGame3.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\CS Tech Savunma\NumberPredictionGame3\NumberPredictionGame3\obj\Debug\NumberPredictionGame3.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\CS Tech Savunma\NumberPredictionGame3\NumberPredictionGame3\obj\Debug\NumberPredictionGame3.StartGameForm.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\CS Tech Savunma\NumberPredictionGame3\NumberPredictionGame3\obj\Debug\NumberPredictionGame3.Form3.resources
