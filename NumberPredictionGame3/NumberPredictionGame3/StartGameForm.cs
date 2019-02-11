@@ -118,7 +118,7 @@ namespace NumberPredictionGame3
         richTextBox1.Text += String.Format("\nMy guess is {0}. If it is wrong, can you give me clue ?", PcGuess.guess(answers));
       else if (answers.Count == 1)
       {
-        richTextBox1.Text += String.Format("\nOleyyy! I Won. The number in your mind is {0}!", answers[0]);
+        richTextBox1.Text += String.Format("\nOleyyy! I Won. The number in your mind is {0}!\nThe number I kept was {1}", answers[0], string.Join("", pcSayi));
         MessageBox.Show("I WON ! hahahhah :)))");
       }
       else if (answers.Count < 1)
